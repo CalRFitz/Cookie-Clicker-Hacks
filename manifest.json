@@ -1,7 +1,7 @@
 {
  "manifest_version": 2,
  "name": "Cookie Clicker Hacks",
- "version": 2.2,
+ "version": 2.3,
  "matches":["https://orteil.dashnet.org/cookieclicker/"],
  "icons": {"128": "icon_128.png","16": "icon_16.png","48": "icon_48.png"},
  "browser_action": { "default_icon": "icon_128.png", "default_popup": "popup.html", "default_title": "Cookie Clicker Cheats"
